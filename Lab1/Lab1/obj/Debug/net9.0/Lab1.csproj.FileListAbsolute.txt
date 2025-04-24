@@ -1,0 +1,14 @@
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\Lab1.AssemblyInfoInputs.cache
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\Lab1.AssemblyInfo.cs
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\Lab1.csproj.CoreCompileInputs.cache
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\bin\Debug\net9.0\Lab1.exe
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\bin\Debug\net9.0\Lab1.deps.json
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\bin\Debug\net9.0\Lab1.runtimeconfig.json
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\bin\Debug\net9.0\Lab1.dll
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\bin\Debug\net9.0\Lab1.pdb
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\Lab1.dll
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\refint\Lab1.dll
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\Lab1.pdb
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\Lab1.genruntimeconfig.cache
+D:\iti 9 months\SOLID\D01\Lab\Lab1\Lab1\obj\Debug\net9.0\ref\Lab1.dll
